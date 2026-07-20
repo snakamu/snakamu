@@ -1,5 +1,4 @@
 # Hi 👋 My name is Shigeki Nakamura
-===================================
 
 Full-stack developer and founder of a software company in Japan.
 ---------------------------------------------------------------
