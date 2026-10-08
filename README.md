@@ -3,24 +3,26 @@
 Full-stack developer and founder of a software company in Japan.
 ---------------------------------------------------------------
 
-Software engineer with over 15 years of experience in web development, backend systems, mobile applications, APIs, databases, and cloud infrastructure.
+Software engineer with over 15 years of experience in web development, backend systems, mobile applications, APIs, databases, cloud infrastructure, and e-commerce development.
 
-My strongest area is backend and full-stack development, especially with PHP and Laravel. I also work with modern frontend, mobile, cloud, and AI technologies depending on the needs of each project.
+My strongest area is backend and full-stack development, especially with PHP and Laravel. I also work with modern frontend, mobile, cloud, Shopify, and AI technologies depending on the needs of each project.
 
 * 🌍 I'm based in Japan
 * 🏢 I'm the founder of Monkuro Inc.
 * 💻 I specialize in PHP, Laravel, TypeScript, React, Next.js, and Vue.js
+* 🛒 I also work with Shopify, including Dawn theme customization, Liquid, and bilingual store setup
 * 📱 I also develop mobile applications with Flutter and React Native
 * ☁️ I work with AWS, Docker, MySQL, and PostgreSQL
 * 🤖 I'm interested in AI-powered applications and API integrations
 * 🚀 I'm currently open to freelance and international projects
-* 🤝 I'm open to collaborating on interesting web and mobile projects
+* 🤝 I'm open to collaborating on interesting web, mobile, and e-commerce projects
 
 ### Skills
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shopify-colored.svg" width="36" height="36" alt="Shopify" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -40,6 +42,8 @@ My strongest area is backend and full-stack development, especially with PHP and
 
 - Full-stack web development
 - Backend and API development
+- Shopify store development, Liquid, and Dawn theme customization
+- E-commerce localization for Japanese and English
 - Admin dashboards
 - Reservation and scheduling systems
 - Mobile application development
