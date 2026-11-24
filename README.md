@@ -17,6 +17,30 @@ My strongest area is backend and full-stack development, especially with PHP and
 * 🚀 I'm open to remote freelance and contract projects
 * 🤝 I welcome long-term collaborations and technical partnerships
 
+### 💼 Open to Freelance & Contract Work
+
+I'm currently available for **part-time remote freelance and contract projects**.
+
+I can help with:
+
+- Web application and backend development
+- PHP / Laravel development and maintenance
+- React / Next.js / Vue.js development
+- Existing system improvements and bug fixes
+- API integrations and AWS infrastructure
+- Shopify development and customization
+- Japanese localization and QA
+
+**Availability:** 10–15 hours per week  
+**Work Style:** Remote  
+**Timezone:** Japan (JST)  
+**Projects:** Japan and international clients
+
+I'm especially interested in **long-term projects, ongoing maintenance, and technical support**.
+
+📩 **Contact:** contact@monkuro.jp  
+🌐 **Company:** https://monkuro.jp/
+
 ### Skills
 
 <p align="left">
