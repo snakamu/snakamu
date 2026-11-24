@@ -14,8 +14,8 @@ My strongest area is backend and full-stack development, especially with PHP and
 * 📱 I also develop mobile applications with Flutter and React Native
 * ☁️ I work with AWS, Docker, MySQL, and PostgreSQL
 * 🤖 I'm interested in AI-powered applications and API integrations
-* 🚀 I'm currently open to freelance and international projects
-* 🤝 I'm open to collaborating on interesting web, mobile, and e-commerce projects
+* 🚀 I'm open to remote freelance and contract projects
+* 🤝 I welcome long-term collaborations and technical partnerships
 
 ### Skills
 
